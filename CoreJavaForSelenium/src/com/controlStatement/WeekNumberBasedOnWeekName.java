@@ -3,7 +3,7 @@ package com.controlStatement;
 public class WeekNumberBasedOnWeekName {
 	
 	public static void main(String[] args) {
-		String week="sunday";
+		String week="Monday";
 		
 		switch(week)
 		{
