@@ -8,7 +8,7 @@ public class ContinueStatement {
 		{
 			if(i==6 || i==2 || i==9)
 			{
-				continue; 
+				 continue;
 			}
 			System.out.println(i);
 		}
