@@ -1,4 +1,4 @@
-package LoopingStatement;
+package comLoopingStatement;
 
 public class WhileLoopWithoutCondition {
 
