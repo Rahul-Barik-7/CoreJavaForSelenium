@@ -1,4 +1,4 @@
-package comLoopingStatement;
+package com.LoopingStatement;
 
 public class ContinueStatement {
 
