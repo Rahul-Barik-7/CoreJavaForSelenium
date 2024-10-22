@@ -33,8 +33,8 @@ Which modifiers are allowed for constructor
 --> Super() - to call super class constructor
 --> this() - to call current class constructor
 
-
---> inheritance overriding concept is not applicable for constructor.
+--> if a class is having same name but different arguments type constructor is called constructor overloading
+--> inheritance overriding concept is not applicable for constructor bcz the parent class constructor is not present in child class
 --> constructor concept is not applicable for interfaces because every interface class members contains public, static , and final
 
 oops
