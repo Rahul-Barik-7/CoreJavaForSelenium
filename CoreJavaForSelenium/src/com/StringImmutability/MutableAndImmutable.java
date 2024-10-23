@@ -1,4 +1,4 @@
-package StringImmutability;
+package com.StringImmutability;
 
 import java.util.Arrays;
 

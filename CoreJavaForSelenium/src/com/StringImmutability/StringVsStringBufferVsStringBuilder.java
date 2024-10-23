@@ -1,4 +1,4 @@
-package StringImmutability;
+package com.StringImmutability;
 
 public class StringVsStringBufferVsStringBuilder {
 
