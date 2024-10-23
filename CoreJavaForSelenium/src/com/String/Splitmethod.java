@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Splitmethod {
 
 	public static void main(String[] args) {
-		// split the string in to multiple parts base on delimeter
+		// split the string in to multiple parts base on deli-meter
 		
 		String s=new String();
 		s="rahulbarik481@gmail.com";
