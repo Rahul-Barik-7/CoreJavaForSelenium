@@ -1,0 +1,17 @@
+Exception
+--------
+An unexpected or unwanted event that disturbs our normal flow of program is called exception
+
+purpose of exception handling
+------------------------------
+The main purpose of exception handling is graceful termination of the program means if something 
+goes wrong we should not miss anything, we should not loose any resources, we should not block any resources 
+
+Meaning of Exception Handling
+--------------------------------
+Meaning of Exception Handling is defining alternative way to continue the rest of the program normally is called exception Handling
+
+Runtime stack mechanism
+--------------------------
+
+
